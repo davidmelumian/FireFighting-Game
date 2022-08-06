@@ -5,14 +5,20 @@ Target :
 Put out fire and save the forest.
 
 Player controls:
+
 left arrow - changes the plane direction to left.
+
 right arrow -changes the plane direction to right.
+
 Space - drops a balloon of water.
 
 Rules:
-;if time ends and there is remaining fire - game over.
-;If no balloons left and fire is not extinguished - game over.
-;if fire is extinguished - Congratulations! You saved the forest.
+
+if time ends and there is remaining fire - game over.
+
+If no balloons left and fire is not extinguished - game over.
+
+if fire is extinguished - Congratulations! You saved the forest.
 
 
 

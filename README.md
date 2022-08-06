@@ -1,4 +1,5 @@
-![screen (2)](https://user-images.githubusercontent.com/110660428/183249913-9eb7ef42-ace3-4887-b9cf-b57ec7ef229f.jpg)
+![Capture](https://user-images.githubusercontent.com/110660428/183249975-df1e1560-f413-4f2f-98c5-796a8f5fd802.JPG)
+
 
 
 # FireFighting-Game
